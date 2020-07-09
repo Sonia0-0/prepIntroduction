@@ -17,10 +17,15 @@ h3{
     font-size: x-large;
     font-style: normal;
     text-align: left;
-    text-decoration: dotted;
-    
+    text-decoration: dotted;   
 }
-
-
-
+p { 
+    font-family:  sans-serif;
+}
+ul { 
+    line-height: 40px;
+}
+h1{
+    color: aqua;
+}
 
